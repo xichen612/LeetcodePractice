@@ -1,0 +1,2 @@
+# LeetcodePractice
+Practice the basis.
